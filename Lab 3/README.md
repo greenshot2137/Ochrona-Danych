@@ -4,10 +4,10 @@
 - Biblioteka *pillow*
 
 # Instalacja bibliotek:
-pip install PyCryptodome
-pip install pillow
+- pip install PyCryptodome
+- pip install pillow
 
 # Uruchomienie programów
-python zad1.py
-python zad2.py
-python zad3.py
+- python zad1.py
+- python zad2.py
+- python zad3.py
